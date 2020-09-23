@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Daniel!, software engineer working for [Input Output Global](https://iohk.io/)
+I'm Daniel!, software engineer working at [Input Output Global](https://iohk.io/)
 
 You can follow me at:
 
